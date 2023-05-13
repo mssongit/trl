@@ -21,6 +21,7 @@ accelerate config # will prompt you to define the training configuration
 
 Then, it is encouraged to launch jobs with `accelerate launch`!
 
+
 ## Categories
 The examples are currently split over the following categories:
 
